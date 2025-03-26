@@ -1,0 +1,40 @@
+.navbar-warning {
+    background-color: #4C4A4F; /* Custom orange color */
+  }
+
+  .navbar-warning .navbar-nav .nav-link:hover {
+    text-decoration: underline;  /* Adds an underline */
+    text-decoration-color: #CB4900; /* Makes the underline orange */
+    text-decoration-thickness: 3px ; 
+}
+
+.accordion-button {
+    background-color: white !important;
+    border: none !important;  
+    color: #000;  /* Ensure text is black by default */
+    box-shadow: none !important; /* Remove shadow from the button */
+    padding: .75rem .9rem;  /* Smaller padding */
+    font-weight: bold;
+}
+
+.accordion-button:focus {
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.accordion-item {
+    border: none !important;  /* Remove the border from the accordion item */
+    box-shadow: 0 4px 8px rgba(128, 128, 128, 0.5);  /* Shadow applied to the container/item */
+    
+}
+
+
+
+
+
+
+
+
+  
+  
+  
